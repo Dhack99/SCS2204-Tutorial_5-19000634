@@ -1,4 +1,4 @@
-object Q05 {
+object Q5 {
     
     def sum(n : Int): Int = n match {
         case 0 => return 0
